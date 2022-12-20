@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:3000",
+  "url": "https://octoapi.onrender.com:3000",
   "capabilities": ["octo/pricing"],
   "supplierId": "1",
   "productStartTimes": {
